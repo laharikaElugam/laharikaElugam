@@ -17,7 +17,9 @@
 
 ### 🚀 About Me
 
-I'm a detail-oriented and self-motivated IT professional passionate about **networking**, **technical engineer**, and **problem-solving**. With a background in both engineering and IT, I bring a mix of analytical thinking and practical technical skills to every opportunity I take on.
+I am a Network Engineer and Technical Support enthusiast with a strong foundation in IT basics. I'm fascinated by how systems communicate with each other, share information, and find each other's addresses.
+
+I'm always learning and experimenting with new tools, techniques, and protocols to better understand how networks work, how to configure and resolve issues, and how to build them from the ground up. I'm constantly looking for ways to grow and sharpen my skills.
 
 ---
 
